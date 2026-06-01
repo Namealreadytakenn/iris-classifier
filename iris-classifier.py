@@ -1,5 +1,3 @@
-from py_compile import main
-
 from sklearn.datasets import load_iris
 iris = load_iris()
 x = iris.data 
